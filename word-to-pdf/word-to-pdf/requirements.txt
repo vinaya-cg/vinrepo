@@ -1,1 +1,8 @@
-Flask\ngunicorn\npython-dotenv\nrequests\nazure-storage-blob\nopenai\nPyPDF2\npython-docx
+Flask
+gunicorn
+python-dotenv
+requests
+azure-storage-blob
+openai
+PyPDF2
+python-docx
