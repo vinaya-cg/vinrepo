@@ -1,8 +1,0 @@
-Flask
-gunicorn
-python-dotenv
-requests
-azure-storage-blob
-openai
-PyPDF2
-python-docx
